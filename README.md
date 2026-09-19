@@ -2,7 +2,7 @@
 
 base Fastapi project with mongodb as the database for RestAPI applications
 
-![Screenshot of API endpoint](https://github.com/movassaghi6/fastapi-clean-mongo/blob/main/docs-v2.png)
+![Screenshot of API endpoint](https://github.com/amir-mov/fastapi-clean-mongo/blob/main/docs-v2.png)
 
 ## Table of Contents
 
